@@ -21,3 +21,4 @@ My 8-week path from Python basics to a deployed backend API.
 ## Daily Log
 
 - **Day 1** — Lists, tuples, sets, dicts. Practiced accumulate/track-best patterns.
+- **Day 2** — Loops, comprehensions, strings. Solved 8 exercises (FizzBuzz, palindrome, flatten, consonants, word→letter). Learned split/join duality. Started cli_todo skeleton.
