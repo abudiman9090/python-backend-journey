@@ -23,3 +23,4 @@ My 8-week path from Python basics to a deployed backend API.
 - **Day 1** — Lists, tuples, sets, dicts. Practiced accumulate/track-best patterns.
 - **Day 2** — Loops, comprehensions, strings. Solved 8 exercises (FizzBuzz, palindrome, flatten, consonants, word→letter). Learned split/join duality. Started cli_todo skeleton.
 - **Day 3** — Functions (`*args`, `**kwargs`, defaults, return vs print), OOP (classes, `self`, `__str__`, inheritance, `super()`, `@classmethod`). Refactored todo app: `Task`, `TodoManager`, JSON persistence. App now saves tasks to `tasks.json` across restarts.
+- **Day 4** — SQL basics (CREATE, INSERT, SELECT, UPDATE, DELETE, GROUP BY, LEFT JOIN). Installed PostgreSQL. Connected Python to Postgres with psycopg2. Learned env vars for secrets.
